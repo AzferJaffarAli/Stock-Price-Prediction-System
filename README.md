@@ -1,7 +1,5 @@
 # Stock-Price-Prediction-System
-Title: Stock Price Prediction System using LSTM
-
-Description:
+**Description**:
 The Stock Price Prediction System using Long Short-Term Memory (LSTM) is a project designed to forecast future stock prices based on historical data. The system utilizes LSTM, a type of recurrent neural network (RNN), which is well-suited for sequence prediction tasks like time series forecasting.
 
 The project involves the following key components and concepts:
